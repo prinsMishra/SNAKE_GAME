@@ -1,2 +1,2 @@
 # Snake_Game
-snake game made ny using java swing
+snake game made by using java swing
